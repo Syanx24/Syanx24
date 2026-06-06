@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/syanx24" target="blank"><img src="https://img.shields.io/twitter/follow/syanx24?logo=twitter&style=for-the-badge" alt="syanx24" /></a> </p>
 
-- 🔭 I’m currently working on **DOCS COMM**
-
-- 🌱 I’m currently learning **Web dev**
-
 - 📫 How to reach me **bhattacharyasayan90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
